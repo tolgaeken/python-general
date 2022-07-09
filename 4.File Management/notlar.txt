@@ -1,0 +1,3 @@
+Ali Veli:70,80,90
+Ahmet Mehmet:45,70,65
+Deniz Efe:80,70,75
